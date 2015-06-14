@@ -2,7 +2,9 @@
 
 
 A simple 3D game created with Unity engine. 
-This repository contains scripts from the game, as all files are rather big in size. 
+This repository contains only scripts from the game as all files are rather big in size (3D models, textures etc.) 
+
+It's a part of a learning process, inspiration for some mechanics was taken from online tutorials and Unity guides. 
 
 The game is available for download under this link: 
 
